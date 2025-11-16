@@ -1,0 +1,3 @@
+name = "leileiziya-superstar"
+main = "main.py"               # 指向你的入口模块（你图片里是 main.py）
+compatibility_date = "2025-11-01"
